@@ -1,6 +1,4 @@
-# Social Gaming in the time of Quarantine
-
-In this time of social distancing, what are gaming options for friends distributed in different houses? Obviously, if you're all gamers and already own multiplayer titles and setups, this is an easy question. For those of us who are casual gamers and still want to hang out with each other just not in person, what are our options?
+*March 15, 2020* In this time of social distancing, what are gaming options for friends distributed in different houses? Obviously, if you're all gamers and already own multiplayer titles and setups, this is an easy question. For those of us who are casual gamers and still want to hang out with each other just not in person, what are our options?
 
 [Donate today](https://covid19responsefund.org/) to support the World Health Organization's COVID-19 Solidarity Response Fund.
 
