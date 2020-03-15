@@ -4,7 +4,8 @@ In this time of social distancing, what are gaming options for friends distribut
 
 [Donate today](https://covid19responsefund.org/) to support the World Health Organization's COVID-19 Solidarity Response Fund.
 
-## Traditional Multiplayer (Everyone Owns and Installs)
+## Traditional Multiplayer
+These options require everyone to own a copy of the game and running it independently using traditional in-game multiplayer connections.
 * crusader kings (free to play)
 * free PC remake of "Goldeneye: Source" (multiplayer)
 * free Counterstrike on steam
@@ -28,6 +29,7 @@ In this time of social distancing, what are gaming options for friends distribut
 * Diplomacy ([diplicity](https://play.google.com/store/apps/details?id=se.oort.diplicity) for android) (really needs 6-7 people and a few hours)
 
 ## Host Streams Video/Discussion
+Using something like Twitch.tv or Steam's built-in streaming options, these let a group discuss moves to make in the game while just one member needs to actually run the program.
 * Japan world cup & penalties
 * Turn-based discussion
   * Franchise Hockey Manager
@@ -40,4 +42,5 @@ In this time of social distancing, what are gaming options for friends distribut
   * Capitalism (visual interface challenges)
 
 ## Physical Board Game w Video Streaming
+Same as above, but with a videocamera/webcam from your laptop pointed at the physical game. Hard to manage when there is secret knowledge.
 * Host set up & stream any cooperative board game over any videostreaming
