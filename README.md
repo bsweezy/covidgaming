@@ -13,11 +13,13 @@ In this time of social distancing, what are gaming options for friends distribut
 ** europa universalis (as single nation coop?)
 
 ## Browser-based Free Multiplayer
-* online emulator for multiplayer supernintendo
-** super bomberman
-** puzzle games
-* airline empires (browser MMORPG tycoon game)
-* Diplomacy mobile/browser game (really needs 6-7 people and a few hours)
+* [Kosmi](https://kosmi.io/) - online emulator for multiplayer supernintendo
+  * super bomberman
+  * nba jam
+  * super mario kart
+  * puzzle games
+* [airline empires](http://www.airline-empires.com/index.php?/page/home.html) (browser MMORPG tycoon game)
+* Diplomacy ([diplicity](https://play.google.com/store/apps/details?id=se.oort.diplicity) for android) (really needs 6-7 people and a few hours)
 
 ## Host Streams Video/Discussion
 * Japan world cup & penalties
@@ -32,4 +34,4 @@ In this time of social distancing, what are gaming options for friends distribut
   * Capitalism (visual interface challenges)
 
 ## Physical Board Game w Video Streaming
-* Host set up & stream "Pandemic: Fall of Rome" physical board game over hangouts or whatever
+* Host set up & stream any cooperative board game over any videostreaming
