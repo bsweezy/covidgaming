@@ -1,8 +1,14 @@
-*March 15, 2020*
-
 In this time of social distancing, what are gaming options for friends distributed in different houses? Obviously, if you're all gamers and already own multiplayer titles and setups, this is an easy question. For those of us who are casual gamers and still want to hang out with each other just not in person, what are our options?
 
 [Donate today](https://covid19responsefund.org/) to support the World Health Organization's COVID-19 Solidarity Response Fund.
+
+*March 16, 2020*
+
+Adding in recommendations from reddit threads.
+
+*March 15, 2020*
+
+Just began this website based on recommendations friends have been making.
 
 ## Traditional Multiplayer
 These options require everyone to own a copy of the game and running it independently using traditional in-game multiplayer connections.
@@ -15,7 +21,7 @@ These options require everyone to own a copy of the game and running it independ
   * We Were There - *Super cool co-op atmospheric puzzle game. Basically you are both situated in a castle, but not together. One of you has to navigate the other person through puzzles and traps until you both meet each other. Free on steam.*
   * Portal 2
 * Classic multiplayer games friends might already own
-** age of kings
+  * age of kings
 * *Not a game suggestion but Steam now has **Remote Play Together**, where you can play games that are local only online with other Steam users. I tried it a few times and it's worked well. This should open up a few more options for the two of you.*
   * Similarly: Parsec
 
