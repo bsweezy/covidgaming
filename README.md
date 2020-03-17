@@ -35,7 +35,7 @@ These options require everyone to own a copy of the game and running it independ
 * Diplomacy ([diplicity](https://play.google.com/store/apps/details?id=se.oort.diplicity) for android) (really needs 6-7 people and a few hours)
 
 ## Host Streams Video/Discussion
-Using something like Twitch.tv or Steam's built-in streaming options, these let a group discuss moves to make in the game while just one member needs to actually run the program.
+Using something like [Twitch.tv](https://www.howtogeek.com/183900/how-to-stream-a-pc-game-online-with-twitch-tv/) or [Steam Remote Play](https://store.steampowered.com/remoteplay), these let a group discuss moves to make in the game while just one member needs to actually run the program.
 * Japan world cup & penalties
 * Turn-based discussion
   * Franchise Hockey Manager
@@ -50,3 +50,9 @@ Using something like Twitch.tv or Steam's built-in streaming options, these let 
 ## Physical Board Game w Video Streaming
 Same as above, but with a videocamera/webcam from your laptop pointed at the physical game. Hard to manage when there is secret knowledge.
 * Host set up & stream any cooperative board game over any videostreaming
+
+## Generic Board Game Simulator/Online
+From [this](https://www.reddit.com/r/boardgames/comments/fjqg5g/are_you_cancelling_your_game_nights/) Reddit thread:
+* For people with lower end computers that cant run TTS, there is [BoardGameArena.com](BoardGameArena.com) (experiencing issues)
+* If you have ever wanted to give A Game of Thrones a try, checkout [ThroneMaster.net](ThroneMaster.net) (FFG is supposed to have an official digital version in 2020 maybe it will come out soon.)
+* If you have wanted to try Diplomacy, now is your chance. [https://www.playdiplomacy.com/](https://www.playdiplomacy.com/)
