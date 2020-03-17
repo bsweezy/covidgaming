@@ -1,4 +1,4 @@
-In this time of social distancing, what are gaming options for friends distributed in different houses? Obviously, if you're all gamers and already own multiplayer titles and setups, this is an easy question. For those of us who are casual gamers and still want to hang out with each other just not in person, what are our options?
+In this time of social distancing, what are gaming options for friends distributed in different houses? Obviously, if you're all gamers and already own multiplayer titles and setups, this is an easy question. For those of us who are casual gamers and still want to hang out with each other just not in person, what are our options? I'll be updating the list through regular blog-like posts. Scientific American is thinking about this as well, see [Could Video Games and Other Entertainment Help Slow the Spread of COVID-19?](https://blogs.scientificamerican.com/observations/could-video-games-and-other-entertainment-help-slow-the-spread-of-covid-19/).
 
 [Donate today](https://covid19responsefund.org/) to support the World Health Organization's COVID-19 Solidarity Response Fund.
 
