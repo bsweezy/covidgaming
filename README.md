@@ -55,3 +55,4 @@ From [this](https://www.reddit.com/r/boardgames/comments/fjqg5g/are_you_cancelli
 * *For people with lower end computers that cant run TTS, there is [BoardGameArena.com](https://BoardGameArena.com) (experiencing issues)*
 * *If you have ever wanted to give A Game of Thrones a try, checkout [ThroneMaster.net](https://ThroneMaster.net) (FFG is supposed to have an official digital version in 2020 maybe it will come out soon.)*
 * *If you have wanted to try Diplomacy, now is your chance. [https://www.playdiplomacy.com/](https://www.playdiplomacy.com/)*
+* Check out this Charades simulator you and your friends can play in the browser: [Charades Randomizer](https://charades-randomizer.appspot.com/?fbclid=IwAR0c4R30KeR9jmXWHhqc7gFDJ7GHJdUWCJwFavHsZlkxTYkt6DZWjzTGPkI)
